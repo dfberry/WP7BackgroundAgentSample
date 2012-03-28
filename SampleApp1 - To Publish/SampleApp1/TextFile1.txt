@@ -1,0 +1,18 @@
+﻿References
+
+http://blogs.msdn.com/b/ptorr/archive/2011/07/11/background-agents-part-1-of-3.aspx
+http://blogs.msdn.com/b/ptorr/archive/2011/07/12/background-agents-part-2-of-3.aspx
+http://blogs.msdn.com/b/ptorr/archive/2011/07/12/background-agents-part-3-of-3.aspx
+http://msdn.microsoft.com/en-us/library/ff402541(v=vs.92).aspx
+http://wildermuth.com/2011/09/06/Periodic_Agents_on_Windows_Phone_7_1
+http://msdn.microsoft.com/en-us/library/ff403324(v=VS.92).aspx
+http://msdn.microsoft.com/en-us/library/ff626516(v=VS.92).aspx
+http://www.windowsphonegeek.com/articles/WP7-Toast-Prompt-in-depth
+http://blogs.msdn.com/b/jasonz/archive/2011/01/03/tutorial-dynamic-tile-push-notification-for-windows-phone-7.aspx
+http://msdn.microsoft.com/en-us/library/ff769544(v=VS.92).aspx
+http://msdn.microsoft.com/en-us/library/system.threading.mutex(v=VS.95).aspx
+http://msdn.microsoft.com/en-us/library/hh202944(v=VS.92).aspx
+http://msdn.microsoft.com/en-us/library/hh202948(v=VS.92).aspx
+http://rodrigueh.com/wp7-live-tiles-with-background-agents
+
+Sample written by Dina Berry, @dfberry. 

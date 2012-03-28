@@ -1,0 +1,3 @@
+The app uses a background process that does some work then updates the tile and pops up toast. The app and the agent talk to each other via an isolated storage file protected by a named mutex. The diagram below shows the pieces and how they work together.
+ 
+Associated with blog post at http://www.31a2ba2a-b718-11dc-8314-0800200c9a66.com/2011/11/simple-wp7-mango-app-for-background.html
